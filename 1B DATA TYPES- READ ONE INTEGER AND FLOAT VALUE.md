@@ -1,4 +1,4 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Read one integer and float  value.
 
 ## AIM  
 To Write a python program to read one integer and float  value.
