@@ -1,4 +1,4 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 1c-Varibles and Expressions, Operators - Right shift operation for the user given integer number with 3 shift.
 
 ## AIM
 To Write a python program to perform the basic right shift operation for the user given integer number with 3 shift.  
