@@ -10,25 +10,37 @@ To create a Python program to print the string in multiple lines using triple qu
 4. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
 
-string_single_quotes = '''I am a string literal
+string1 = '''I am a string literal
+
 ... has more than one
-... line
-... placed inside triple single quotes'''
 
-string_double_quotes = """I am a string literal
+... line
+
+....placed inside triple single quotes'''
+
+
+
+string2 = """I am a string literal
+
 ... has more than one
-... line
-... placed inside triple double quotes"""
 
-print(string_single_quotes)
-print(string_double_quotes)
-```
+... line
+
+....placed inside triple double quotes"""
+
+
+
+print(string1)
+
+print(string2)
+
+
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/60027ee9-acb0-4d16-9825-8a42befbcce3)
+
 
 ## RESULT
 
+Thus the Python program to print the string in multiple lines using triple quotes was written in executed successfully.
